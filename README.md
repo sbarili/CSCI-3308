@@ -1,2 +1,3 @@
 # CSCI-3308
-Practice repo for Lab3 and files
+Sarah Barili
+Lab3 and files
